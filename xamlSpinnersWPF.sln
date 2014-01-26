@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamlSpinnersWPF", "xamlSpinnersWPF\xamlSpinnersWPF.csproj", "{8c768879-d553-4b16-a7c8-905c7614732f}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C768879-D553-4B16-A7C8-905C7614732F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C768879-D553-4B16-A7C8-905C7614732F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C768879-D553-4B16-A7C8-905C7614732F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C768879-D553-4B16-A7C8-905C7614732F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
