@@ -12,7 +12,7 @@
 			<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="bottomCog" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)">
 				<EasingDoubleKeyFrame KeyTime="00:00:00" Value="15"/>
 				<EasingDoubleKeyFrame KeyTime="00:00:00.5000000" Value="195"/>
-				<EasingDoubleKeyFrame KeyTime="00:00:01" Value="344"/>
+				<EasingDoubleKeyFrame KeyTime="00:00:01" Value="374"/>
 			</DoubleAnimationUsingKeyFrames>
 			<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="topCog" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)">
 				<EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
